@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "age": 37,
+    "name": "Botham",
+    "gender": "male",
+    "company": "GOLD",
+    "email": "botham@fangold.com",
+    "phone": "+91 (851) 502-3378",
+    "about": "Pasd wer vb sdf try.\r\n"
+  },
+  {
+    "id": 2,
+    "age": 37,
+    "name": "Joann Stokes",
+    "gender": "female",
+    "company": "FANGOLD",
+    "email": "joannstokes@fangold.com",
+    "phone": "+91 (851) 502-3378",
+    "about": "Proident aute amet reprehenderit.\r\n"
+  },
+  {
+    "id": 4,
+    "age": 32,
+    "name": "Yolanda Rich",
+    "gender": "female",
+    "company": "EARTHWAX",
+    "email": "yolandarich@earthwax.com",
+    "phone": "+91 (905) 433-3478",
+    "about": "Eiusmod id pariatur quis .\r\n"
+  },
+  {
+    "id": 5,
+    "age": 38,
+    "name": "Freida Decker",
+    "gender": "female",
+    "company": "OPTICOM",
+    "email": "freidadecker@opticom.com",
+    "phone": "+91 (857) 434-2276",
+    "about": "Mollit ullamco dolor.\r\n"
+  },
+  {
+    "id": 6,
+    "age": 20,
+    "name": "Adriana Carr",
+    "gender": "female",
+    "company": "INTERFIND",
+    "email": "adrianacarr@interfind.com",
+    "phone": "+91 (986) 531-2887",
+    "about": "Cupidatat dolore reprehenderit.\r\n"
+  },
+  {
+    "id": 7,
+    "age": 37,
+    "name": "Oneill Levy",
+    "gender": "male",
+    "company": "PEARLESSA",
+    "email": "oneilllevy@pearlessa.com",
+    "phone": "+91 (956) 481-3731",
+    "about": "Incididunt dolor anim .\r\n"
+  },
+  {
+    "id": 8,
+    "age": 31,
+    "name": "Leann Kane",
+    "gender": "female",
+    "company": "ZENSURE",
+    "email": "leannkane@zensure.com",
+    "phone": "+91 (951) 590-3333",
+    "about": "Voluptate ex ipsum qui .\r\n"
+  },
+  {
+    "id": 9,
+    "age": 32,
+    "name": "Leann Kane",
+    "gender": "female",
+    "company": "ZENSUREr",
+    "email": "leannkane@zensure.com",
+    "phone": "+91 (951) 590-3333",
+    "about": "Voluptate ex ipsum qui .\r\n"
+  }
+]
