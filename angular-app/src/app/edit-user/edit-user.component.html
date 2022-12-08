@@ -1,0 +1,45 @@
+<form #userForm="ngForm" (ngSubmit)="onSubmit(userForm)">
+  <p>
+    <label for="name">Name </label>
+    <input type="text" id="name" name="name" [(ngModel)]="user.name" />
+  </p>
+
+  <p>
+    <label for="age">Age </label>
+    <input type="number" id="age" name="age" [(ngModel)]="user.age" />
+  </p>
+
+  <p>
+    <label for="gender">Gender </label>
+    <input type="text" id="gender" name="gender" [(ngModel)]="user.gender" />
+  </p>
+
+  <p>
+    <label for="company">Company </label>
+    <input type="text" id="company" name="company" [(ngModel)]="user.company" />
+  </p>
+
+  <p>
+    <label for="email">Email </label>
+    <input type="text" id="email" name="email" [(ngModel)]="user.email" />
+  </p>
+
+  <p>
+    <label for="phone">Phone </label>
+    <input type="text" id="phone" name="phone" [(ngModel)]="user.phone" />
+  </p>
+
+  <p>
+    <label for="about">About </label>
+    <input type="text" id="about" name="about" [(ngModel)]="user.about" />
+  </p>
+
+  <p>
+    <button type="submit">Submit</button>
+  </p>
+
+  <p>
+    <button type="button" (click)="reset(userForm)">Reset</button>
+    <button type="button" (click)="cancel()">Cancel</button>
+  </p>
+</form>
